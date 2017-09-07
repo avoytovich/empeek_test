@@ -1,0 +1,36 @@
+{
+  "name": "empeek_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack",
+    "start:dev": "webpack-dev-server --hot --inline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avoytovich/empeek_test.git"
+  },
+  "author": "andrii voitovych",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avoytovich/empeek_test/issues"
+  },
+  "homepage": "https://github.com/avoytovich/empeek_test#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.5",
+    "express": "^4.15.4",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "nodemon": "^1.11.0",
+    "react": "^15.6.1",
+    "react-bootstrap": "^0.31.2",
+    "react-dom": "^15.6.1",
+    "style-loader": "^0.18.2",
+    "webpack": "^2.6.0",
+    "webpack-dev-server": "^2.7.1"
+  }
+}
