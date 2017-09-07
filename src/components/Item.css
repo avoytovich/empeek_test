@@ -1,0 +1,53 @@
+.Item {
+  color: black;
+  background-color: #ffffff;
+}
+
+div {
+  margin-top: 5px;
+}
+
+.form-inline .form-control  {
+  width: 100%;
+}
+
+.Comment {
+  color: black;
+  background-color: #ffffff;
+}
+
+.square {
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  background-color: grey;
+}
+
+.square_orange {
+  width: 25px;
+  height: 25px;
+  background-color: orange;
+}
+
+.square_blue {
+  width: 25px;
+  height: 25px;
+  background-color: blue;
+}
+
+.count {
+  display: inline;
+  padding: 5px;
+  text-align: center;
+  border-radius: 50px;
+  background-color: blue;
+}
+
+.itemCount {
+  display: inline;
+  margin-right: 20%;
+}
+
+div.col-md-2.col-sm-2.col-xs-2, div.col-md-12.col-sm-12.col-xs-12 {
+  padding: 0px;
+}
