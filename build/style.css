@@ -1,0 +1,37 @@
+body {
+  color: white;
+  background-color: #2b2f3e;
+}
+
+h1 {
+  font-family: serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar-default {
+  background-color: #ff3653;
+}
+
+div.col-md-6.col-sm-6.col-xs-12 {
+  background-color: #ffffff;
+}
+.Item {
+  color: black;
+  background-color: #ffffff;
+}
+
+.form-inline .form-control {
+  width: 100%;
+}
+
+div.col-md-10.col-sm-10.col-xs-10 {
+  padding-right: 0px;
+  padding-left: 0px;
+}
